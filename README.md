@@ -1,5 +1,5 @@
 # BanknoteClassifier
-Deep learning model to predict if a banknote is real or fake. This deep learning model is built using the Tensorflow Sequential model.
+Deep learning model to predict if a banknote is real or fake. This deep learning model is built using the Tensor Flow Sequential model.
 
 [Here is linkto source of data](https://archive.ics.uci.edu/ml/datasets/banknote+authentication)
 
